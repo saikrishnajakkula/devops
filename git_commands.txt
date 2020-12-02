@@ -1,0 +1,5 @@
+git init --To create or initiate git local repository(in creates a ".git" folder in the path)
+git add -- To move files from workspace area to index/staging area.
+git commit -- To move files from index/staging area to local repository
+git status -- To view the status of the files wheather they are in staging area or repository
+git push 
